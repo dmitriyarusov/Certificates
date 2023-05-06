@@ -1,1 +1,1 @@
-I save certificates of completed courses here. 
+Сохраняю сертификаты по пройденному обучению здесь.
